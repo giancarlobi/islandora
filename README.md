@@ -9,7 +9,7 @@ http://jenkins.discoverygarden.ca
 SUMMARY
 -------
 
-Islandora Fedora Repository Module
+Islandora Fedora Repository Module FORK
 
 For installation and customization instructions please see the documentation
 and the DuraSpace Wiki:
